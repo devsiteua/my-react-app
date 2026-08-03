@@ -48,12 +48,12 @@ export default function App() {
       </div>
 
       <Product
-        name="Tacos With Lime"
+        name="Tacos With Lime Change"
         imgUrl="https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?w=640"
         price={10.99}
       />
       <Product
-        name="Fries and Burger"
+        name="Fries and Burger Edited"
         imgUrl="https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?w=640"
         price={14.29}
       />
