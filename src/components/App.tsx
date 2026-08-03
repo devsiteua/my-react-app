@@ -24,7 +24,7 @@ export default function App() {
 
   return (
     <>
-      <h1>Products</h1>
+      <h1>Products with React</h1>
 
       <hr/>
       <div>
