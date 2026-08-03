@@ -5,11 +5,7 @@ import Button from "./Button.tsx";
 
 import { useState } from "react";
 
-interface Values {
-  x: number;
-  y: number;
-  z: number;
-}
+
 
 
 export default function App() {
@@ -43,7 +39,7 @@ export default function App() {
         <hr/>
         <Button variant="primary" text="Login" />
         <Button variant="secondary" text="Follow" />
-        <Button variant="primary" text="Login Primary" />
+        <Button variant="primary" text="Login Primary">
         <hr/>
       </div>
 
